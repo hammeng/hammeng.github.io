@@ -492,7 +492,8 @@ ol {
 
 .single-slide h1 {
 	color: #fff;
-	font-size: 130px;
+	font-size: 140px;
+	transform: scale(1.2, 1.7);
 	font-weight: 500;
 	margin-bottom: 45px;
 	position: relative;
@@ -588,6 +589,7 @@ ol {
 	color: #353535;
 	font-size: 18px;
 	font-weight: 700;
+	transform: scale(1.2, 1.7);
 	letter-spacing: 1.5px;
 	text-transform: uppercase;
 	margin-bottom: 22px;
@@ -624,6 +626,7 @@ ol {
 
 .single-service h5 {
 	color: #fff;
+	transform: scale(1.2, 1.7);
 	font-size: 18px;
 	font-weight: 700;
 	letter-spacing: 1.5px;
@@ -691,6 +694,7 @@ ol {
 
 .person-text h5 {
 	color: #fff;
+	transform: scale(1.2, 1.7);
 	font-size: 18px;
 	font-weight: 700;
 	letter-spacing: 1.5px;
@@ -700,6 +704,7 @@ ol {
 .person-text h5 span {
 	display: block;
 	text-transform: none;
+	transform: scale(1.2, 1.7);
 	font-size: 15px;
 	font-weight: 400;
 	opacity: 0.6;
@@ -739,6 +744,7 @@ ol {
 	color: #212122;
 	font-size: 18px;
 	font-weight: 700;
+	transform: scale(1.2, 1.7);
 	letter-spacing: 1.5px;
 	text-transform: uppercase;
 }
@@ -798,6 +804,7 @@ ol {
 .membership-card .membership-details .up-title h5 {
 	color: #212122;
 	font-size: 18px;
+	transform: scale(1.2, 1.7);
 	font-weight: 700;
 	letter-spacing: 1.5px;
 	text-transform: uppercase;
@@ -843,6 +850,7 @@ ol {
 	color: #fff;
 	font-size: 18px;
 	font-weight: 700;
+	transform: scale(1.2, 1.7);
 	letter-spacing: 1.5px;
 	text-transform: uppercase;
 }
@@ -1138,6 +1146,7 @@ ol {
 	color: #fff;
 	font-size: 18px;
 	font-weight: 700;
+	transform: scale(1.2, 1.7);
 	text-transform: uppercase;
 	margin-top: 19px;
 }
@@ -1286,6 +1295,7 @@ ol {
 .single-projects .projects-text h5 {
 	color: #353535;
 	font-size: 18px;
+	transform: scale(1.2, 1.7);
 	font-weight: 700;
 	text-transform: uppercase;
 	margin-bottom: 21px;
@@ -1945,6 +1955,7 @@ ol {
 .single-icon-box h5 {
 	color: #353535;
 	font-size: 18px;
+	transform: scale(1.2, 1.7);
 	font-weight: 700;
 	text-transform: uppercase;
 	letter-spacing: 1.5px;
