@@ -33,7 +33,6 @@
     font-family: 'diner-fattregular';
     src: url('../fonts/Diner-Fatt-webfont.eot');
     src: url('../fonts/Diner-Fatt-webfont.eot?#iefix') format('embedded-opentype'),
-         url('../fonts/Diner-Fatt-webfont.woff2') format('woff2'),
          url('../fonts/Diner-Fatt-webfont.woff') format('woff'),
          url('../fonts/Diner-Fatt-webfont.ttf') format('truetype'),
          url('../fonts/Diner-Fatt-webfont.svg#diner-fattregular') format('svg');
