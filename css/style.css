@@ -35,7 +35,7 @@
     font-family: 'Diner-Fatt Regular';
     font-style: normal;
     font-weight: normal;
-	src: url('hammeng.github.io/fonts/Diner-Fatt.woff') format('woff');
+	src: url('https://hammeng.github.io/fonts/Diner-Fatt.woff') format('woff');
     }
     
 
@@ -43,7 +43,7 @@
     font-family: 'Diner-Obese Regular';
     font-style: normal;
     font-weight: normal;
-	src: url('hammeng.github.io/fonts/Diner-Obese.woff') format('woff');
+	src: url('https://hammeng.github.io/fonts/Diner-Obese.woff') format('woff');
     }
     
 
@@ -51,7 +51,7 @@
     font-family: 'Diner-Regular Regular';
     font-style: normal;
     font-weight: normal;
-	src: url('hammeng.github.io/fonts/Diner-Regular.woff') format('woff');
+	src: url('https://hammeng.github.io/fonts/Diner-Regular.woff') format('woff');
     }
     
 
@@ -59,7 +59,7 @@
     font-family: 'Diner-Skinny Regular';
     font-style: normal;
     font-weight: normal;
-    src: url('hammeng.github.io/fonts/Diner-Skinny.woff') format('woff');
+    src: url('https://hammeng.github.io/fonts/Diner-Skinny.woff') format('woff');
     }
 html,
 body {
