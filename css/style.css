@@ -151,6 +151,7 @@ ol {
 	background-repeat: no-repeat;
 	background-size: cover;
 	background-position: top center;
+	width: 100%
 }
 
 .spad {
@@ -472,7 +473,7 @@ ol {
 
 .single-slide {
 	height: 895px;
-	padding-top: 343px;
+	padding-top: 1%;
 	text-align: center;
 }
 
@@ -712,164 +713,6 @@ ol {
 	opacity: 0.6;
 	letter-spacing: 0;
 	margin-top: 5px;
-}
-
-/*---------------------
-  Upcoming Events
------------------------*/
-
-.upcoming-projects {
-	border: 2px solid #E5E7F3;
-	padding-left: 45px;
-	padding-top: 67px;
-	padding-right: 45px;
-	padding-bottom: 45px;
-	height: 503px;
-}
-
-.upcoming-projects .up-title {
-	margin-bottom: 45px;
-}
-
-.upcoming-projects .up-title span {
-	color: #212122;
-	font-size: 12px;
-	font-weight: 900;
-	letter-spacing: 6px;
-	opacity: 0.6;
-	text-transform: uppercase;
-	display: block;
-	margin-bottom: 6px;
-}
-
-.upcoming-projects .up-title h5 {
-	color: #212122;
-	font-size: 18px;
-	font-weight: 700;
-	transform: scale(1.2, 1.7);
-	letter-spacing: 1.5px;
-	text-transform: uppercase;
-}
-
-.upcoming-projects .projects-time li {
-	color: #7b7b7b;
-	list-style: none;
-	font-size: 14px;
-	font-weight: 400;
-	margin-bottom: 30px;
-	margin-left: 17px;
-	position: relative;
-}
-
-.upcoming-projects .projects-time li img {
-	position: absolute;
-	left: -25px;
-	top: 0;
-}
-
-.upcoming-projects .projects-time li span {
-	float: right;
-}
-
-.membership-card {
-	height: 503px;
-	border-top: 22px solid #233EDE;
-	border-left: 24px solid #233EDE;
-	border-bottom: 21px solid #233EDE;
-	border-right: 20px solid #233EDE;
-}
-
-.membership-card .bg-img img {
-	height: 100%;
-}
-
-.membership-card .membership-details {
-	padding-top: 47px;
-	padding-left: 27px;
-}
-
-.membership-card .membership-details .up-title {
-	margin-bottom: 1px;
-}
-
-.membership-card .membership-details .up-title span {
-	color: #212122;
-	font-size: 12px;
-	font-weight: 900;
-	letter-spacing: 6px;
-	opacity: 0.6;
-	text-transform: uppercase;
-	display: block;
-	margin-bottom: 6px;
-}
-
-.membership-card .membership-details .up-title h5 {
-	color: #212122;
-	font-size: 18px;
-	transform: scale(1.2, 1.7);
-	font-weight: 700;
-	letter-spacing: 1.5px;
-	text-transform: uppercase;
-}
-
-.membership-card .membership-details .discount h1 {
-	color: #233EDE;
-	font-size: 72px;
-	font-weight: 700;
-}
-
-.membership-card .membership-details .discount h1 span {
-	display: inline-block;
-	font-size: 15px;
-	font-weight: 700;
-	margin-left: -9px;
-}
-
-.member-sign-up {
-	height: 503px;
-	padding-top: 67px;
-	padding-left: 45px;
-	padding-right: 41px;
-	text-align: left;
-}
-
-.member-sign-up .up-title {
-	margin-bottom: 34px;
-}
-
-.member-sign-up .up-title span {
-	color: #fff;
-	font-size: 12px;
-	font-weight: 900;
-	letter-spacing: 6px;
-	opacity: 0.6;
-	text-transform: uppercase;
-	display: block;
-	margin-bottom: 6px;
-}
-
-.member-sign-up .up-title h5 {
-	color: #fff;
-	font-size: 18px;
-	font-weight: 700;
-	transform: scale(1.2, 1.7);
-	letter-spacing: 1.5px;
-	text-transform: uppercase;
-}
-
-.member-sign-up p {
-	color: #fff;
-	font-size: 15px;
-	line-height: 30px;
-	margin-bottom: 42px;
-}
-
-.member-sign-up .member-signup-btn {
-	text-align: center;
-}
-
-.member-sign-up .member-signup-btn .primary-btn {
-	display: block;
 }
 
 /*---------------------
