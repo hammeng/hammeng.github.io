@@ -44,11 +44,13 @@
 
 
 html,
+
 body {
 	height: 100%;
 	font-family: "Raleway";
 	-webkit-font-smoothing: antialiased;
 	background: none;
+	
 
 }
 
@@ -65,7 +67,8 @@ h6 {
 }
 
 h1 {
-	font-size: 100px;}
+	font-size: 100px;
+	}
 
 h1Sharp {
 	font-size: 100px;
@@ -97,10 +100,12 @@ p {
 	font-weight: 400;
 	line-height: 1.6;
 	margin: 0 0 15px 0;
+	
 }
 
 img {
 	max-width: 100%;
+	
 }
 
 input:focus,
