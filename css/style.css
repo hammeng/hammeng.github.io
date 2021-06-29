@@ -376,8 +376,8 @@ ol {
 }
 
 .top-social .top-social-links {
-	width: 121px;
-	background: #000;
+	width: 90px;
+	background: rgba(0, 0, 0, 0.90);
 	text-align: center;
 	padding-top: 32px;
 	padding-bottom: 19px;
